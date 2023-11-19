@@ -494,8 +494,9 @@ main {
   display: inline-block;
   width: 30px;
   height: auto;
-  position: relative;
+  position: absolute;
   right: 5px;
+  top: 5px;
 }
 
 .verified-image {
